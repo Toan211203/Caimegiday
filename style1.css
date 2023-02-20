@@ -1,0 +1,15 @@
+body{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(160, 125, 49);
+ }
+ span{
+    color: rgb(201, 201, 27);
+ }
+ h1{
+    font-size: 45px;
+    color: rgb(15, 15, 167);
+ }
+ ins{
+    color: rgb(169, 7, 7);
+ }
